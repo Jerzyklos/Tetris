@@ -1,0 +1,9 @@
+1. usunac dziedziczenie w klasie board, jest zbedne
+2. nauczyc sie debugowania
+3. poprawic includy; najpierw Qt potem includy plikow
+4. przerobic wektor w boardzie na smart pointer na niego
+5. pododawac consty do metod
+6. pododawac konstruktory kopiujace(regula trzech? konstruktor normalny kopiujacay i delete)
+7. wywalic Rect-y bo sa zbedne i dac QRecty
+8. zrobic ladniejsze sprawdzanie punktow.. mam wrazenie ze to wszytsko mozna by zrobic o wiele ladniej
+9. problem z focusem, trzeba kliknac na plansze zeby klawisze lapaly
